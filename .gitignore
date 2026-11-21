@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+bin/
+obj/
+packages/
+*.log
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# SQL Server
+*.mdf
+*.ldf
+*.bak
+
+# Secrets
+appsettings.local.json
+*.secrets.config
+
+# OS
+Thumbs.db
+.DS_Store
